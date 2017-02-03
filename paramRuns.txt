@@ -1,0 +1,44 @@
+{'degree': 1, 'C': 1000, 'kernel': 'rbf'}:  0.8636013277740765
+{'degree': 1, 'C': 500, 'kernel': 'poly'}:  0.85639254997742464
+{'degree': 3, 'C': 500, 'kernel': 'poly'}:  0.84295342949671392
+{'degree': 5, 'C': 500, 'kernel': 'poly'}:  0.77081480777317646
+{'C': 100, 'gamma': 0.5, 'kernel': 'rbf', 'degree': 3}:  0.85958504280304648
+{'C': 100, 'gamma': 0.5, 'kernel': 'sigmoid', 'degree': 3}:  0.75966714403724989
+{'kernel': 'rbf', 'degree': 1, 'C': 10000}:  0.86787512633291675
+{'kernel': 'rbf', 'degree': 1, 'C': 20000}:  0.86805539996212622
+
+{'gamma': 1, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.8836315330618798
+{'gamma': 0.5, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.88121147362530916
+{'gamma': 0.01, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.86334389173442927
+{'gamma': 0.05, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.86960008579451509
+{'gamma': 0.005, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.86058912846180868
+{'gamma': 0.0005, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.85451309071448078
+{'gamma': 5e-05, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.84426639545330107
+{'gamma': 5e-06, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.83615658952946925
+{'gamma': 5, 'kernel': 'rbf', 'degree': 3, 'C': 200}:  0.88548528610305033
+{'gamma': 6, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.88551107186140099
+{'gamma': 100, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.89382686757828778
+{'gamma': 50, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.89408434935146708   !!!!
+{'gamma': 75, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.89284852989800223
+{'gamma': 500, 'kernel': 'rbf', 'degree': 3, 'C': 500}:  0.89068603574801675
+{'gamma': 500, 'kernel': 'rbf', 'degree': 3, 'C': 100}:  0.89071178571490783
+{'gamma': 25, 'kernel': 'rbf', 'degree': 3, 'C': 50}:  0.88947587877120793
+{'gamma': 1, 'kernel': 'rbf', 'degree': 3, 'C': 100}:  0.87976968426293334
+{'gamma': 1, 'kernel': 'rbf', 'degree': 3, 'C': 250}:  0.88064502207565543
+{'gamma': 1, 'kernel': 'rbf', 'degree': 3, 'C': 20}:  0.87225198838858242  #testing with Ceyer
+{'gamma': 5, 'kernel': 'rbf', 'degree': 3, 'C': 1}:  0.86192791994503504
+{'gamma': 25, 'kernel': 'rbf', 'degree': 3, 'C': 1}:  0.87567615137964516
+{'gamma': 0.005, 'kernel': 'rbf', 'degree': 3, 'C': 1000}:  0.86118123652287493
+{'gamma': 1, 'kernel': 'linear', 'degree': 3, 'C': 500}:  0.8557231681547125
+{'kernel': 'rbf', 'gamma': 65, 'C': 200, 'degree': 3}:  0.89274556184506937
+{'kernel': 'rbf', 'gamma': 60, 'C': 200, 'degree': 3}:  0.8926683258632977
+
+{'C': 200, 'kernel': 'rbf', 'degree': 3, 'gamma': 55}:  0.89279704984836472
+{'C': 200, 'kernel': 'rbf', 'degree': 3, 'gamma': 50}:  0.89413580355171707
+{'C': 200, 'kernel': 'rbf', 'degree': 3, 'gamma': 35}:  0.89462497736289581 !!!!
+{'C': 150, 'kernel': 'rbf', 'degree': 3, 'gamma': 50}:  0.89423878552355074
+{'C': 250, 'kernel': 'rbf', 'degree': 3, 'gamma': 50}:  0.89367239760315886
+{'C': 200, 'kernel': 'rbf', 'degree': 3, 'gamma': 45}:  0.8942388073961095
+{'C': 200, 'kernel': 'rbf', 'degree': 3, 'gamma': 70}:  0.89297726183672699
+
+{'degree': 3, 'gamma': 0.01, 'C': 100, 'kernel': 'rbf'}:  0.85984248480793724
